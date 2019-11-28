@@ -1,1 +1,2 @@
 python test_frcnn.py -p ./images/
+print(hellow word);
